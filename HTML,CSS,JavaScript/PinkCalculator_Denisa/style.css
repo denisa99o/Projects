@@ -1,0 +1,24 @@
+
+         .title{ 
+         margin-bottom: 10px; 
+         text-align:center; 
+         width: 210px; 
+         color:red; 
+         border: solid black 7px; 
+         } 
+  
+         input[type="button"] 
+         { 
+         background-color:pink; 
+         color: black; 
+         border: solid black 8px; 
+         width:100% 
+         } 
+  
+         input[type="text"] 
+         { 
+         background-color:white; 
+         border: solid black 2px; 
+         width:100% 
+         } 
+     
