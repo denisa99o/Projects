@@ -1,0 +1,12 @@
+D:\visual_studio_denisa\lab2_II_Valean\RentACarBuy\bin\Debug\RentACarBuy.exe.config
+D:\visual_studio_denisa\lab2_II_Valean\RentACarBuy\bin\Debug\RentACarBuy.exe
+D:\visual_studio_denisa\lab2_II_Valean\RentACarBuy\bin\Debug\RentACarBuy.pdb
+D:\visual_studio_denisa\lab2_II_Valean\RentACarBuy\obj\Debug\RentACarBuy.csprojAssemblyReference.cache
+D:\visual_studio_denisa\lab2_II_Valean\RentACarBuy\obj\Debug\RentACarBuy.Form1.resources
+D:\visual_studio_denisa\lab2_II_Valean\RentACarBuy\obj\Debug\RentACarBuy.Properties.Resources.resources
+D:\visual_studio_denisa\lab2_II_Valean\RentACarBuy\obj\Debug\RentACarBuy.csproj.GenerateResource.cache
+D:\visual_studio_denisa\lab2_II_Valean\RentACarBuy\obj\Debug\RentACarBuy.csproj.CoreCompileInputs.cache
+D:\visual_studio_denisa\lab2_II_Valean\RentACarBuy\obj\Debug\RentACarBuy.exe
+D:\visual_studio_denisa\lab2_II_Valean\RentACarBuy\obj\Debug\RentACarBuy.pdb
+D:\visual_studio_denisa\lab2_II_Valean\RentACarBuy\obj\Debug\RentACarBuy.Form2.resources
+D:\visual_studio_denisa\lab2_II_Valean\RentACarBuy\obj\Debug\RentACarBuy.Form3.resources
